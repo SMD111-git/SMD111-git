@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👨‍💻 I enjoy working on web development and automation projects.
 - 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
-- 📝 I regularly write articles and tutorials to share my knowledge with the community.
+- 📝 I regularly write articles and tutorials to share my knowledge with the community. <a href="https://hashnode.com/@SMD99"><img src="https://img.shields.io/badge/Hashnode-00A6D6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 
 ## 💻 Technologies & Tools 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
   <a href="https://www.linkedin.com/in/smd-owais-7703b7245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/SMD9987"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://docs.google.com/document/d/1c_wBLDq_2Q0NDd28YiDBuzxvQ7rf0FY9/edit"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"></a>
-  <a href="https://hashnode.com/@SMD99"><img src="https://img.shields.io/badge/Hashnode-00A6D6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+ 
 </p>
 
 
