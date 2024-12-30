@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 Here are a few of my notable projects:
 under process !!!!
 
-- [**Project Name**](https://github.com/SMD111-git/project-repo) - Brief description of the project.
+- [**Project Name**](https://github.com/SMD111-git/project-repo) - <--!Brief description of the project.-->
 - [**Another Project**](https://github.com/SMD111-git/another-project-repo) - Brief description of the project.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work!
