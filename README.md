@@ -1,4 +1,4 @@
-# Hi there, I'm SMD111-git! 👋
+# Hi there, I'm SMD! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating innovative solutions and contributing to the open-source community. Here's a bit more about me:
 
