@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - **Frameworks & Libraries:** Reactjs, Node.js
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, MongoDB
+- **OS:** Windows,kalilinux
 
 ## 📈 GitHub Stats
 
@@ -29,22 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
   <a href="https://docs.google.com/document/d/1c_wBLDq_2Q0NDd28YiDBuzxvQ7rf0FY9/edit"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"></a>
   <a href="https://hashnode.com/@SMD99"><img src="https://img.shields.io/badge/Hashnode-00A6D6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
 </p>
---
-<p align="center">
-      <img align="center" src="https://img.shields.io/badge/OS-Windows-informational?logo=Microsoft&labelColor=0A0E28&color=4e67eb&logoColor=ffffff">
-      <img align="center" src="https://img.shields.io/badge/OS-Linux-informational?logo=Linux&labelColor=0A0E28&color=4e67eb&logoColor=ffffff">
-      <img align="center" src="https://img.shields.io/badge/Editor-VSCode-informational?logo=visual-studio-code&labelColor=46474a&color=0078d7&logoColor=0078d7">      
-</p>
-<p align="center">
-      <img align="center" src="https://img.shields.io/badge/Code-Python-informational?logo=python&labelColor=1a1a1a&color=306998&logoColor=306998">
-      <img align="center" src="https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&labelColor=1a1a1a&color=306998&logoColor=306998">
-      <img align="center" src="https://img.shields.io/badge/Code-HTML-informational?logo=html5&labelColor=1a1a1a&color=306998&logoColor=306998">
-      <img align="center" src="https://img.shields.io/badge/Code-MATLAB-informational?logo=mathworks&labelColor=1a1a1a&color=306998&logoColor=306998">
-</p>
-<p align="center">
-    <img align="center" src="https://img.shields.io/badge/Tools-Git-informational?logo=git&labelColor=171717&color=525252&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Tools-GitHub-informational?logo=github&labelColor=171717&color=525252&logoColor=white">
-</p>
+
 
 ## 🌟 Projects
 
