@@ -15,11 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - **Frameworks & Libraries:** Reactjs, Node.js
 - **Tools & Platforms:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, MongoDB
-- **OS:** Windows,kalilinux
+- **OS:** Windows,kali-linux
 
-## 📈 GitHub Stats
-
-![SMD111-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMD111-git&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
@@ -32,14 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 </p>
 
 
-## 🌟 Projects
 
-Here are a few of my notable projects:
-    
-  under process !!!!
-
-- [**Project Name**](https://github.com/SMD111-git/project-repo) -Brief description of the project.
-- [**Another Project**](https://github.com/SMD111-git/another-project-repo) - Brief description of the project.
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work!
 
