@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 
 ## 📫 How to Reach Me
 
-- **Email:** smd111@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@SMD111](https://twitter.com/SMD111)
+- **Email:** owaissmd33@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/smd-owais-7703b7245/
+- **Twitter:** https://x.com/SMD9987
 
 ## 🌟 Projects
 
