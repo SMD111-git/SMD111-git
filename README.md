@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 ## 🚀 About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
-- 👨‍💻 I enjoy working on web development, data science, and automation projects.
+- 👨‍💻 I enjoy working on web development and automation projects.
 - 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
 - 📝 I regularly write articles and tutorials to share my knowledge with the community.
 
