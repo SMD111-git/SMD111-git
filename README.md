@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm SMD111-git! 👋
 
-<!--
-**SMD111-git/SMD111-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on creating innovative solutions and contributing to the open-source community. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 👨‍💻 I enjoy working on web development, data science, and automation projects.
+- 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
+- 📝 I regularly write articles and tutorials to share my knowledge with the community.
+
+## 💻 Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Frameworks & Libraries:** React, Node.js, Django, Flask, Pandas, NumPy
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Docker, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## 📈 GitHub Stats
+
+![SMD111-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMD111-git&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** smd111@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Twitter:** [@SMD111](https://twitter.com/SMD111)
+
+## 🌟 Projects
+
+Here are a few of my notable projects:
+
+- [**Project Name**](https://github.com/SMD111-git/project-repo) - Brief description of the project.
+- [**Another Project**](https://github.com/SMD111-git/another-project-repo) - Brief description of the project.
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or learn more about my work!
+
+Thanks for stopping by!
