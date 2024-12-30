@@ -1,4 +1,5 @@
-# Hi there, I'm SMD! 👋
+# Hi there, I'm SMD!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on creating innovative solutions and contributing to the open-source community. Here's a bit more about me:
 
