@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 - 🤝 I’m open to collaborating on exciting projects and contributing to open-source.
 - 📝 I regularly write articles and tutorials to share my knowledge with the community.
 
-   <a href="https://hashnode.com/@SMD99"><img src="https://img.shields.io/badge/Hashnode-00A6D6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"> 
+   <a href="https://smd99.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-00A6D6?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"> 
  </a>
 
 ## 💻 Technologies & Tools 
