@@ -23,6 +23,27 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Databases:**  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🔌 Hardware, Robotics & Embedded
+
+**Boards & Platforms:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+**Robotics & Middleware:**  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+**Embedded & Communication:**  
+![Embedded Programming](https://img.shields.io/badge/Embedded%20Programming-2C3E50?style=for-the-badge&logo=c&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-0A66C2?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/UART-16A085?style=for-the-badge&logoColor=white)
+![PWM](https://img.shields.io/badge/PWM-F39C12?style=for-the-badge&logoColor=white)
+
+**Sensors, Motors & Control:**  
+![Encoders](https://img.shields.io/badge/Encoders-34495E?style=for-the-badge&logoColor=white)
+![Motor Control](https://img.shields.io/badge/Motor%20Control-C0392B?style=for-the-badge&logoColor=white)
+![PID Control](https://img.shields.io/badge/PID%20Control-1ABC9C?style=for-the-badge&logoColor=white)
 
  **OS:**  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
