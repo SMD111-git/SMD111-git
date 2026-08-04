@@ -26,10 +26,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on creatin
 ### 🔌 Hardware, Robotics & Embedded
 
 **Boards & Platforms:**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
+@@
+ **Boards & Platforms:**  
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
++![Arduino Nano](https://img.shields.io/badge/Arduino%20Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+ ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+ ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 **Robotics & Middleware:**  
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
